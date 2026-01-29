@@ -28,6 +28,3 @@ Backend
 - Puppeteer (for scraping)
 - Nodemailer (email alerts)
 - JWT Authentication
-
-## 📁 Project Structure
-
