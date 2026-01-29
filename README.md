@@ -20,7 +20,7 @@ Frontend
 - React
 - Tailwind CSS
 - Lucide Icons
-- 
+  
 Backend
 - Node.js
 - Express.js
